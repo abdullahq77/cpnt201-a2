@@ -17,7 +17,6 @@ I used [Simeon's Page](https://simmytun.github.io/cpnt201-a2/)
 
 I used [this site for sizes element help](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 
-### GitHub Pages and Repo Link
+### GitHub Pages Link
 My GitHub Pages site is [abdullahq77 github.io cpnt201-a2](https://abdullahq77.github.io/cpnt201-a2/)
 
-My GitHub Repo is [here](https://github.com/abdullahq77/cpnt201-a2)
