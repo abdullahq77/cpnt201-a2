@@ -1,0 +1,35 @@
+ /* Giving the image full width and giving a black border */
+ img {
+  width: 80%;
+  
+  border: 1px solid black;
+}
+
+/* Changing the font sizes */
+body {
+  font-size: clamp(18px, 4vw, 32px); 
+}
+
+/* Aligning the text, giving it proper width and handing it a nice font */
+main, footer {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  
+  width: 100vw;
+  max-width: 1500px;
+  
+  margin: 1rem auto;
+}
+
+/* Changing the font of the header and giving it padding to  */
+header {
+  font-family: 'Oswald', sans-serif; ;
+  
+  background-color: black;
+  color: white; 
+  
+  padding: 1em;
+  text-align: center;
+  
+  width: 100%;
+}
